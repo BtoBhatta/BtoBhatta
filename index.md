@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like pineapples"
 
 linkedin: https://www.linkedin.com/in/example
-image: /assets/images/profile.svg
+image: /assets/images/IMG_3679.jpeg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
