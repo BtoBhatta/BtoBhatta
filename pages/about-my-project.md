@@ -3,7 +3,7 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
+subtitle: Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models
 project_title: "My Summer Research Project"
 
 problem: |
