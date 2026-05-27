@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Bto Bhatta
+  role: Junior, Nursing
   image: /assets/images/profile.svg
   linkedin: https://www.linkedin.com/in/example
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Bto, a Nursing student in the CEAMLS SAIRI Summer Research program.
 
     My research interests sit at the intersection of human-computer interaction and applied
     machine learning. I'm especially curious about how everyday tools can be made more
@@ -20,11 +20,11 @@ about:
 
   hobbies:
     - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
+      title: Cooking
+      description: I make really good Nepali dish in my spare time.
     - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
+      title: Watching Movies
+      description: I enjoy watching movies.
     - icon: 📚
       title: Reading
       description: Sci-fi novels and design essays — both equally inspiring.
