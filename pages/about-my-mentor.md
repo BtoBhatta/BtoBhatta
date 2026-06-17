@@ -9,7 +9,7 @@ graduate_mentor:
   title: Graduate Research Mentor, CEAMLS
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/blessing-ojeme
-  bio: |
+ bio: |
     Dr. Blessing Ojeme is a graduate researcher at CEAMLS, where he works on
     artificial intelligence applications in healthcare. He is passionate about
     leveraging technology to address real-world challenges and advancing the
@@ -21,10 +21,10 @@ graduate_mentor:
     positive change in society.
 
 faculty_mentor:
-  name: Sudip Sharma
-  title: Graduate Student, Advanced Computing, Morgan State University
-  image: /assets/images/faculty-mentor.svg
-  website: https://example.com/sudip-sharma
+    name: Sudip Sharma
+    title: Graduate Student, Advanced Computing, Morgan State University
+    image: /assets/images/faculty-mentor.svg
+    website: https://example.com/sudip-sharma
   bio: |
     Sudip Sharma is a graduate student in Advanced Computing at Morgan State
     University and a Research Assistant working on artificial intelligence in
