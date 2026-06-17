@@ -2,4 +2,11 @@
 layout: default
 ---
 {% assign theme_name = site.theme_name | default: 'minimal' %}
-{% include themes/{{ theme_name }}/mentor.html %}
+
+{% if theme_name == "dark" %}
+  {% include themes/dark/mentor.html %}
+{% elsif theme_name == "modern" %}
+  {% include themes/modern/mentor.html %}
+{% else %}
+  {% include themes/minimal/mentor.html %}
+{% endif %}
