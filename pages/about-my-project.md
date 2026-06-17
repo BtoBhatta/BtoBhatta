@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "ECG Classification Using 1D-CNN"
-permalink: /ecg-project/
-tags: ["ecg", "machine-learning", "deep-learning", "1d-cnn", "ptb-xl", "research"]
+title: "About My Project"
+permalink: /about-my-project/
 ---
-
 # ECG Classification Using 1D-CNN
 
 ## Project Overview
