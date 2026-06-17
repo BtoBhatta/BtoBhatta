@@ -5,7 +5,7 @@ permalink: /about-my-mentor/
 ---
 
 graduate_mentor:
-  name: Dr Blessing Ojeme
+  name: Dr Blessing Ojemee
   title: Graduate Research Mentor, CEAMLS
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/blessing-ojeme
