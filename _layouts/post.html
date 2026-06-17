@@ -2,4 +2,7 @@
 layout: default
 ---
 {% assign theme_name = site.theme_name | default: 'minimal' %}
-{% include themes/{{ theme_name }}/post.html %}
+
+{% assign post_template = "themes/" | append: theme_name | append: "/post.html" %}
+
+{% include {{ post_template }} %}
