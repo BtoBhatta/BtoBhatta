@@ -5,27 +5,36 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Dr Blessing Ojeme
-  title: PhD Candidate, Computer Engineering
+  title: Graduate Research Mentor, CEAMLS
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: https://example.com/blessing-ojeme
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Dr. Blessing Ojeme is a graduate researcher at CEAMLS, where she works on
+    artificial intelligence applications in healthcare. She is passionate about
+    leveraging technology to address real-world challenges and advancing the
+    development of trustworthy and impactful AI systems.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Alongside her research, she enjoys exploring new technologies, collaborating
+    with interdisciplinary teams, and supporting student learning and development.
+    She believes in continuous growth, curiosity, and using innovation to create
+    positive change in society.
 
 faculty_mentor:
   name: Sudip Sharma
-  title: Associate Professor, School of Engineering
+  title: Graduate Student, Advanced Computing, Morgan State University
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: https://example.com/sudip-sharma
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Sudip Sharma is a graduate student in Advanced Computing at Morgan State
+    University and a Research Assistant working on artificial intelligence in
+    healthcare at CEAMLS. Originally from Nepal, he is passionate about using
+    technology to solve real-world problems and making AI systems fairer and
+    more trustworthy.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Along with his research, he has experience in software development and enjoys
+    learning new technologies. Outside of academics, Sudip loves singing and
+    playing the guitar, spending time in nature, and going on hikes. He enjoys
+    exploring new places, meeting people from different backgrounds, and taking
+    on new challenges. He believes in continuous learning, staying curious, and
+    using his skills to make a positive impact.
 ---
