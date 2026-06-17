@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ECG Classification Using 1D-CNN"
-permalink: /ecg-project.html
+permalink: /ecg-project/
 tags: ["ecg", "machine-learning", "deep-learning", "1d-cnn", "ptb-xl", "research"]
 ---
 
