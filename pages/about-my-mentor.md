@@ -1,7 +1,8 @@
 ---
 layout: mentor
 title: About My Mentors
-permalink: /about-my-mentor.html
+permalink: /about-my-mentor/
+---
 
 graduate_mentor:
   name: Dr Blessing Ojeme
@@ -9,14 +10,14 @@ graduate_mentor:
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/blessing-ojeme
   bio: |
-    Dr. Blessing Ojeme is a graduate researcher at CEAMLS, where she works on
-    artificial intelligence applications in healthcare. She is passionate about
+    Dr. Blessing Ojeme is a graduate researcher at CEAMLS, where he works on
+    artificial intelligence applications in healthcare. He is passionate about
     leveraging technology to address real-world challenges and advancing the
     development of trustworthy and impactful AI systems.
 
-    Alongside her research, she enjoys exploring new technologies, collaborating
+    Alongside his research, he enjoys exploring new technologies, collaborating
     with interdisciplinary teams, and supporting student learning and development.
-    She believes in continuous growth, curiosity, and using innovation to create
+    He believes in continuous growth, curiosity, and using innovation to create
     positive change in society.
 
 faculty_mentor:
@@ -32,9 +33,8 @@ faculty_mentor:
     more trustworthy.
 
     Along with his research, he has experience in software development and enjoys
-    learning new technologies. Outside of academics, Sudip loves singing and
-    playing the guitar, spending time in nature, and going on hikes. He enjoys
-    exploring new places, meeting people from different backgrounds, and taking
-    on new challenges. He believes in continuous learning, staying curious, and
-    using his skills to make a positive impact.
----
+    learning new technologies. Outside of academics, he loves singing and playing
+    the guitar, spending time in nature, and going on hikes. He enjoys exploring
+    new places, meeting people from different backgrounds, and taking on new
+    challenges. He believes in continuous learning, staying curious, and using
+    his skills to make a positive impact.
