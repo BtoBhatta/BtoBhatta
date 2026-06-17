@@ -4,7 +4,7 @@ title: About My Mentors
 permalink: /about-my-mentor/
 ---
 
-faculty_mentor:
+graduate_mentor:
   name: Dr Blessing Ojeme
   title: Graduate Research Mentor, CEAMLS
   image: /assets/images/graduate-student-mentor.svg
@@ -20,7 +20,7 @@ faculty_mentor:
     He believes in continuous growth, curiosity, and using innovation to create
     positive change in society.
 
-graduate_mentor:
+faculty_mentor:
   name: Sudip Sharma
   title: Graduate Student, Advanced Computing, Morgan State University
   image: /assets/images/faculty-mentor.svg
