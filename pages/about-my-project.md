@@ -1,40 +1,40 @@
----
-layout: project
-title: About My Project
-permalink: /about-my-project.html
+# Project: ECG Classification Using 1D-CNN
 
-subtitle: Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models
-project_title: "My Summer Research Project"
+project = {
+    "title": "ECG Classification Using Deep Learning",
+    "dataset": "PTB-XL ECG Dataset",
+    "objective": "Classify ECG signals and identify cardiac abnormalities using a 1D-CNN model.",
+    
+    "tools_used": [
+        "Python",
+        "Google Colab",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Scikit-learn",
+        "TensorFlow/Keras"
+    ],
+    
+    "workflow": [
+        "Dataset Exploration",
+        "Data Preprocessing",
+        "Signal Visualization",
+        "Literature Review",
+        "1D-CNN Model Development",
+        "Model Training",
+        "Performance Evaluation"
+    ],
+    
+    "model": {
+        "type": "1D Convolutional Neural Network (1D-CNN)",
+        "input": "Raw ECG Waveforms",
+        "output": "ECG Class Predictions"
+    },
+    
+    "goal": "Develop an accurate and efficient deep learning model for automated ECG analysis and heart disease detection."
+}
 
-problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
-
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
-
-approach: |
-  Describe how you'll approach the problem. A bulleted plan works well:
-
-  - Step 1 — what you'll build, collect, or analyze first
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
-
-  Mention the specific tools, datasets, or methods you'll use.
-
-outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
-
-final_report_url: https://example.com/your-report.pdf
-
-grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
-
-faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
----
+print("ECG Classification Research Project")
+print("Dataset:", project["dataset"])
+print("Model:", project["model"]["type"])
+print("Goal:", project["goal"])
