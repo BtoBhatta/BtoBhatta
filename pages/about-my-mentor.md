@@ -2,7 +2,7 @@
 layout: mentor
 title: About My Mentors
 permalink: /about-my-mentor/
----
+
 
 graduate_mentor:
   name: Dr Blessing Ojemee
