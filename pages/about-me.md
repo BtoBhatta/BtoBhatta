@@ -2,6 +2,7 @@
 layout: about
 title: About Me
 permalink: /about-me.html
+https://github.com/BtoBhatta/BtoBhatta/blob/be1bc2ada659d1c811dc9a2ba6a6ae27084efe2e/IMG_0281.jpeg
 
 about:
   name: Bto Bhatta
