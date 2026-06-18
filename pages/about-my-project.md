@@ -8,9 +8,10 @@ project_title: "ECG Classification Using 1D-CNN"
 
 problem: |
   This research project focuses on developing a deep learning model for automated ECG (Electrocardiogram) signal classification.
-  ECG signals provide important information about the electrical activity of the heart and can be used to identify various cardiac abnormalities.
-  The project uses the PTB-XL dataset, one of the largest publicly available clinical ECG datasets, to train and evaluate a One-Dimensional Convolutional Neural Network (1D-CNN).
-  The objective is to create a model capable of learning patterns directly from ECG waveforms and accurately classifying heart conditions.
+  ECG signals provide important information about the electrical activity of the heart and can be used to identify various cardiac
+  abnormalities. The project uses the PTB-XL dataset, one of the largest publicly available clinical ECG datasets, to train and evaluate a One
+  Dimensional Convolutional Neural Network (1D-CNN). The objective is to create a model capable of learning patterns directly from ECG 
+  waveforms and accurately classifying heart conditions.
 
 approach: |
   Use Python, Google Colab, and TensorFlow/Keras to preprocess and explore the PTB-XL dataset.
