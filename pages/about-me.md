@@ -7,7 +7,7 @@ permalink: /about-me.html
 about:
   name: Bto Bhatta 
   role: Junior, Nursing
-  image:https://github.com/BtoBhatta/BtoBhatta/blob/be1bc2ada659d1c811dc9a2ba6a6ae27084efe2e/IMG_0281.jpeg
+  image: https://github.com/BtoBhatta/BtoBhatta/blob/be1bc2ada659d1c811dc9a2ba6a6ae27084efe2e/IMG_0281.jpeg
   linkedin: https://www.linkedin.com/in/bto-bhatta-00330a3b7
   bio: |
     Hi! I'm Bto, a Nursing student in the CEAMLS SAIRI Summer Research program.
