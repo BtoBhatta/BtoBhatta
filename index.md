@@ -8,9 +8,9 @@ motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
   - "🎓 Junior, Nursing"
-  - "🔬 Interested in Quantum Physics"
+  - "🔬 Interested in Biology"
   - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🚀 I like Cartoons"
 
 linkedin: https://www.linkedin.com/in/example
 image: /assets/images/IMG_3679.jpeg
