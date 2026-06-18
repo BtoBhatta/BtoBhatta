@@ -31,10 +31,10 @@ about:
       description: Sci-fi novels and design essays — both equally inspiring.
 
   gallery:
-    - image: https://github.com/BtoBhatta/BtoBhatta/blob/b9bd99b6d19ca425ef668efaad3bb6f37e542340/download-2.jpg
+    - image: download-2.jpg
       caption: A great day on the trail.
-    - image: https://github.com/BtoBhatta/BtoBhatta/blob/b9bd99b6d19ca425ef668efaad3bb6f37e542340/download-1.jpg
+    - image: download-1.jpg
       caption: Foodie
-    - image: https://github.com/BtoBhatta/BtoBhatta/blob/b9bd99b6d19ca425ef668efaad3bb6f37e542340/download.jpg
+    - image: download.jpg
       caption: Hanging out with friends.
 ---
