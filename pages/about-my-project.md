@@ -27,7 +27,7 @@ outcome: |
 
   The final output will demonstrate an end-to-end machine learning workflow for ECG analysis, which can help others understand how AI can be applied in healthcare for early detection of heart-related abnormalities and further research in medical AI and fairness in machine learning.
 
-final_report_url: https://example.com/your-report.pdf
+final_report_url: https://www.sairi-portal.com/project-preferences
 
 grad_mentor:
   name: Sudip Sharma
