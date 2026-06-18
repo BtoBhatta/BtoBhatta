@@ -5,7 +5,7 @@ permalink: /about-me.html
 
 
 about:
-  name: Bto Bhatta
+  name: Bto Bhatta https://github.com/BtoBhatta/BtoBhatta/blob/be1bc2ada659d1c811dc9a2ba6a6ae27084efe2e/IMG_0281.jpeg
   role: Junior, Nursing
   image: /assets/images/profile.svg
   linkedin: https://www.linkedin.com/in/bto-bhatta-00330a3b7
