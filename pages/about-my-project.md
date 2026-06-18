@@ -1,34 +1,40 @@
 ---
 layout: project
 title: About My Project
-permalink: /about-my-project/
+permalink: /about-my-project.html
 
-subtitle: ECG Classification Using 1D-CNN
-project_title: "ECG Classification Using 1D-CNN"
+subtitle: Human-Computer Interaction & Adaptive Systems
+project_title: "My Summer Research Project"
 
 problem: |
-  This research project focuses on developing a deep learning model for automated ECG (Electrocardiogram) signal classification.
-  ECG signals provide important information about the electrical activity of the heart and can be used to identify various cardiac
-  abnormalities. The project uses the PTB-XL dataset, one of the largest publicly available clinical ECG datasets, to train and evaluate a One
-  Dimensional Convolutional Neural Network (1D-CNN). The objective is to create a model capable of learning patterns directly from ECG 
-  waveforms and accurately classifying heart conditions.
+  Briefly describe the problem your project tackles. Who is affected? Why does this
+  matter? What gap or limitation are you trying to address?
+
+  Aim for two to three short paragraphs. Plain language is great — your audience
+  may not be specialists in your sub-field.
 
 approach: |
-  Use Python, Google Colab, and TensorFlow/Keras to preprocess and explore the PTB-XL dataset.
-  Develop a 1D-CNN architecture for ECG signal classification, train the model, and evaluate results.
-  Visualize ECG waveforms, refine the model, and measure performance with appropriate metrics.
+  Describe how you'll approach the problem. A bulleted plan works well:
+
+  - Step 1 — what you'll build, collect, or analyze first
+  - Step 2 — the next phase of the work
+  - Step 3 — how you'll evaluate or test
+  - Step 4 — how you'll communicate the results
+
+  Mention the specific tools, datasets, or methods you'll use.
 
 outcome: |
-  A working ECG classification model and project documentation showing dataset preprocessing, model development, and evaluation.
-  The goal is to demonstrate an automated ECG analysis workflow that supports early detection of heart-related abnormalities.
+  What do you expect to produce by the end of the program? A working prototype?
+  A research poster? A short paper? Describe the artifacts and what you hope
+  others will be able to do with them.
 
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Sudip Sharma
-  linkedin: https://www.linkedin.com/in/nxxis/
+  name: Alex Morgan
+  linkedin: https://www.linkedin.com/in/example
 
 faculty_mentor:
-  name: Dr. Blessing Ojeme
-  linkedin: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/
+  name: Dr. Pat Nguyen
+  linkedin: https://www.linkedin.com/in/example
 ---
