@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 I like Cartoons"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/bto-bhatta-baa267329/?skipRedirect=true
 image: /assets/images/IMG_3679.jpeg
 
 # A "Currently" block — three short status lines for the home page.
