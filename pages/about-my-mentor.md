@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Sudip Sharma
   title: PhD Candidate, Advanced Computing
-  image: /assets/images/graduate-student-mentor.svg
+  image: https://github.com/BtoBhatta/BtoBhatta/blob/64674bc23677e42132fef21caab6693ec8e1b517/1769530594511.jpg
   website: https://sudipsharma013.com.np
   bio: |
     Sudip Sharma is a graduate student in Advanced Computing at Morgan State University and a Research Assistant working on artificial intelligence in healthcare at CEAMLS. Originally from Nepal, he is passionate about using technology to solve real-world problems and make AI systems fairer and more trustworthy. Along with his research, he has experience in software development and enjoys learning new technologies.
@@ -17,7 +17,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Blessing Ojeme
   title: Assistant Professor, Department of Computer Science
-  image: /assets/images/https://github.com/BtoBhatta/BtoBhatta/blob/92048b7e2566618d5cb983aa5a3229c68aa32269/Photo%3Dojeme.jpg
+  image: https://github.com/BtoBhatta/BtoBhatta/blob/92048b7e2566618d5cb983aa5a3229c68aa32269/Photo%3Dojeme.jpg
   website: https://example.com/blessing-ojeme
   bio: |
     Dr. Blessing Ojeme is an Assistant Professor in the Department of Computer Science at Morgan State University and a faculty member of the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS). His work focuses on leveraging artificial intelligence and advanced computing technologies to solve real-world challenges. His research interests include artificial intelligence, machine learning, deep learning, computer vision, image processing, bioinformatics, human-computer interaction, and information retrieval. He is particularly interested in developing innovative computational approaches that improve decision-making, advance scientific discovery, and create meaningful societal impact.
