@@ -18,7 +18,7 @@ faculty_mentor:
   name: Dr. Blessing Ojeme
   title: Assistant Professor, Department of Computer Science
   image: Photo=ojeme.jpg
-  website: https://example.com/blessing-ojeme
+  website: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/?skipRedirect=true
   bio: |
     Dr. Blessing Ojeme is an Assistant Professor in the Department of Computer Science at Morgan State University and a faculty member of the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS). His work focuses on leveraging artificial intelligence and advanced computing technologies to solve real-world challenges. His research interests include artificial intelligence, machine learning, deep learning, computer vision, image processing, bioinformatics, human-computer interaction, and information retrieval. He is particularly interested in developing innovative computational approaches that improve decision-making, advance scientific discovery, and create meaningful societal impact.
 
