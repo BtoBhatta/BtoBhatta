@@ -31,7 +31,7 @@ final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Sudip Sharma
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://sudipsharma013.com.np/
 
 faculty_mentor:
   name: Dr. Blessing Ojeme
