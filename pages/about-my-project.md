@@ -4,7 +4,7 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models"
+project_title: "My Summer Research Project"
 topic: "Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models"
 
 problem: |
@@ -27,12 +27,13 @@ outcome: |
 
   The final output will demonstrate an end-to-end machine learning workflow for ECG analysis, which can help others understand how AI can be applied in healthcare for early detection of heart-related abnormalities and further research in medical AI and fairness in machine learning.
 
-final_report_url: https://www.nature.com/articles/s41597-020-0495-6
+final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Sudip Sharma
-  linkedin: https://www.linkedin.com/in/nxxis/?skipRedirect=true
+  linkedin: https://www.linkedin.com/in/example
 
 faculty_mentor:
   name: Dr. Blessing Ojeme
-  linkedin: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/?skipRedirect=true
+  linkedin: https://www.linkedin.com/in/example
+---
