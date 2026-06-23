@@ -35,5 +35,5 @@ grad_mentor:
 
 faculty_mentor:
   name: Dr. Blessing Ojeme
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/?skipRedirect=true
 ---
