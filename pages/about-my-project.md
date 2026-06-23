@@ -4,7 +4,7 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+project_title: "Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models"
 topic: "Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models"
 
 problem: |
@@ -31,9 +31,9 @@ final_report_url: https://www.nature.com/articles/s41597-020-0495-6
 
 grad_mentor:
   name: Sudip Sharma
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: [https://www.linkedin.com/in/example](https://www.linkedin.com/in/nxxis/)
 
 faculty_mentor:
   name: Dr. Blessing Ojeme
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: [https://www.linkedin.com/in/example](https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/)
 ---
