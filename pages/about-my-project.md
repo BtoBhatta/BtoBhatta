@@ -31,8 +31,8 @@ final_report_url: https://www.nature.com/articles/s41597-020-0495-6
 
 grad_mentor:
   name: Sudip Sharma
-  linkedin: linkedin.com/in/nxxis
+  linkedin: https://www.linkedin.com/in/nxxis/?skipRedirect=true
 
 faculty_mentor:
   name: Dr. Blessing Ojeme
-  linkedin: linkedin.com/in/blessing-ojeme-phd-259a7342
+  linkedin: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/?skipRedirect=true
